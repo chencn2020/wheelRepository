@@ -1,0 +1,5 @@
+git log //选取对应的log的哈希值
+
+git reset -hard hash
+or
+git reset -soft hash
