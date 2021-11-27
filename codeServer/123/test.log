@@ -1,0 +1,3380 @@
+info  code-server 3.1.1 28e91ba70cd70fa9adf3f2e3e3b87631b5667ecf
+info  HTTP server listening on http://0.0.0.0:8080
+info    - Using custom password for authentication
+info    - Not serving HTTPS
+info  Automatic updates are enabled
+info  SSH server listening on localhost:37995
+info    - To disable use `--disable-ssh`
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+(node:114253) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [ChildProcess]. Use emitter.setMaxListeners() to increase limit
+(node:114253) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [ChildProcess]. Use emitter.setMaxListeners() to increase limit
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: write EPIPE
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:87:16)
+Emitted 'error' event on Socket instance at:
+    at errorOrDestroy (internal/streams/destroy.js:108:12)
+    at onwriteError (_stream_writable.js:452:5)
+    at onwrite (_stream_writable.js:473:5)
+    at internal/streams/destroy.js:50:7
+    at Socket._destroy (net.js:664:5)
+    at Socket.destroy (internal/streams/destroy.js:38:8)
+    at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:88:12) {
+  errno: 'EPIPE',
+  code: 'EPIPE',
+  syscall: 'write'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  vscode write EPIPE
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/bootstrap.js:5:80)
+    at process.emit (events.js:210:5)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+error Failed to get latest version [38;2;140;140;140m{"error":"getaddrinfo EAI_AGAIN api.github.com"}[0m
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+error Failed to get latest version [38;2;140;140;140m{"error":"getaddrinfo EAI_AGAIN api.github.com"}[0m
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+error Failed to get latest version [38;2;140;140;140m{"error":"getaddrinfo EAI_AGAIN api.github.com"}[0m
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+warn  discarding socket connection: not authenticated
+(node:114253) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [ChildProcess]. Use emitter.setMaxListeners() to increase limit
+(node:114253) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 error listeners added to [ChildProcess]. Use emitter.setMaxListeners() to increase limit
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+error Failed to get latest version [38;2;140;140;140m{"error":"getaddrinfo EAI_AGAIN api.github.com"}[0m
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+warn  discarding socket connection: vscode is not running
+warn  discarding socket connection: vscode is not running
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at Object.t.canceled (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:7:362)
+    at u.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:247)
+    at t.ThrottledDelayer.cancel (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:31:641)
+    at Object.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:140:343)
+    at p.stop (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:958)
+    at FSWatcher.<anonymous> (/disk1/chenzewen/codeServer/123/lib/vscode/out/vs/platform/files/node/watcher/unix/watcherApp.js:141:820)
+    at FSWatcher.emit (events.js:210:5)
+    at FSWatcher._handleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/index.js:625:10)
+    at NodeFsHandler._boundHandleError (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:302:43)
+    at createFsWatchInstance (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:120:5)
+    at setFsWatchListener (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:165:15)
+    at NodeFsHandler._watchWithNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:330:14)
+    at NodeFsHandler._handleFile (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:360:23)
+    at NodeFsHandler._addToNodeFs (/disk1/chenzewen/codeServer/123/lib/vscode/node_modules/chokidar/lib/nodefs-handler.js:620:21)
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ECONNRESET',
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1
+events.js:187
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ETIMEDOUT
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+Emitted 'error' event on Socket instance at:
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  errno: 'ETIMEDOUT',
+  code: 'ETIMEDOUT',
+  syscall: 'read'
+}
+error VS Code exited unexpectedly with code 1

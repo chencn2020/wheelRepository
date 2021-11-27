@@ -9,11 +9,17 @@
 
 Host github.com                 
     HostName github.com
-    IdentityFile /home/liwenjuan/.ssh/zevin
+    IdentityFile C:/Users/c2000/.ssh/github
     PreferredAuthentications publickey
     User zevin
 
     
+Host git.coding.net                
+    HostName git.coding.net
+    IdentityFile C:/Users/c2000/.ssh/id_rsa
+    PreferredAuthentications publickey
+    User zevin
+
 Host gitee.com                 
     HostName gitee.com
     IdentityFile /home/liwenjuan/.ssh/zevin
