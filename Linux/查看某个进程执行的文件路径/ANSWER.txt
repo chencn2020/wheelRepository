@@ -1,0 +1,5 @@
+通过 ps -ax|grep "执行文件名"，获得进程ID
+
+使用：cd /proc/进程ID
+
+使用：ll -rt|grep cwd，即可获得执行文件的所处路径
