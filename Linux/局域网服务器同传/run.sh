@@ -1,0 +1,2 @@
+nohup scp -r liwenjuan@172.18.32.31:/disk1/chenzewen/sciResLife/OurIdeas/SSLIQA/hyperIQA/pkl/Water-UNET-Denoise-AddSSIMInception-AddVggLoss-2021-10-20.pkl /home/wangjuan/chenzewen/AttentionExp/SSLIQA/pkl > nohup.out &
+echo $! > save_pid.txt
